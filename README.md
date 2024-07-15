@@ -10,7 +10,7 @@ The Google Cybersecurity Certificate has eight courses that focus and build upon
 ![wUDPfuuARCehSWG8hh8yGQ_391e3fca589640ff865568380c1165f1_S33G003-S33G010](https://github.com/user-attachments/assets/1109190a-94f8-44b2-9bef-610166d83082)
 
 - Foundations of Cybersecurity (Google): https://github.com/sondosaabed/Foundations-of-Cybersecurity
-- Play It Safe: Manage Security Risks (Google)
+- Play It Safe: Manage Security Risks (Google): https://github.com/sondosaabed/Manage-Security-Risks
 - Connect and Protect: Networks and Network Security (Google)
 - Tools of the Trade: Linux and SQL (Google)
 - Assets, Threats, and Vulnerabilities (Google)
