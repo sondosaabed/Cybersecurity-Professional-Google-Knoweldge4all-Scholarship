@@ -13,7 +13,7 @@ The Google Cybersecurity Certificate has eight courses that focus and build upon
 - Play It Safe: Manage Security Risks (Google): https://github.com/sondosaabed/Manage-Security-Risks
 - Connect and Protect: Networks and Network Security (Google): https://github.com/sondosaabed/Networks-and-Network-Security/
 - Tools of the Trade: Linux and SQL (Google): https://github.com/sondosaabed/Tools-of-the-Trade-Linux-and-SQL
-- Assets, Threats, and Vulnerabilities (Google)
+- Assets, Threats, and Vulnerabilities (Google): https://github.com/sondosaabed/Assets-Threats-and-Vulnerabilities/
 - Sound the Alarm: Detection and Response (Google)
 - Automate Cybersecurity Tasks with Python (Google)
 - Put It to Work: Prepare for Cybersecurity Jobs (Google)
