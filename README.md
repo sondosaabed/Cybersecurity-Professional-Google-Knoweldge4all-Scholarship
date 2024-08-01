@@ -3,6 +3,7 @@ I have been selected as a recipient of the full scholarship from the FutureSkill
 
 ## The Google Cybersecurity Certificate
 The Google Cybersecurity Certificate has eight courses that focus and build upon core concepts and skills related to the daily work of cybersecurity professionals, including foundational cybersecurity models and frameworks that are used to mitigate risk; protecting networks and data; using programming to automate tasks; identifying and responding to security incidents; and communicating and collaborating with stakeholders. Additionally, apply what is learned in each course by completing portfolio projects that can be used to showcase the understanding of essential cybersecurity concepts to potential employers. The courses of the program are as follows: 
+
 ![wUDPfuuARCehSWG8hh8yGQ_391e3fca589640ff865568380c1165f1_S33G003-S33G010](https://github.com/user-attachments/assets/1109190a-94f8-44b2-9bef-610166d83082)
 
 
