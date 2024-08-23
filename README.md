@@ -15,7 +15,7 @@ Each of these courses material and certificates of accomplishments are included 
 - **[Connect and Protect: Networks and Network Security (Google)](https://github.com/sondosaabed/Networks-and-Network-Security)** ✅
 - **[Tools of the Trade: Linux and SQL (Google)](https://github.com/sondosaabed/Tools-of-the-Trade-Linux-and-SQL)** ✅
 - **[Assets, Threats, and Vulnerabilities (Google)](https://github.com/sondosaabed/Assets-Threats-and-Vulnerabilities)** ✅
-- **[Sound the Alarm: Detection and Response (Google)](https://github.com/sondosaabed/Detection-and-Response)**
+- **[Sound the Alarm: Detection and Response (Google)](https://github.com/sondosaabed/Detection-and-Response)** ✅
 - **[Automate Cybersecurity Tasks with Python (Google)]()**
 - **[Put It to Work: Prepare for Cybersecurity Jobs (Google)]()**
 
