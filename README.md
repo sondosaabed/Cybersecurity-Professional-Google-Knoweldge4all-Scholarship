@@ -20,7 +20,7 @@ Each of these courses material and certificates of accomplishments are included 
 - **[Assets, Threats, and Vulnerabilities](https://github.com/sondosaabed/Assets-Threats-and-Vulnerabilities)** ✅
 - **[Sound the Alarm: Detection and Response](https://github.com/sondosaabed/Detection-and-Response)** ✅
 - **[Automate Cybersecurity Tasks with Python](https://github.com/sondosaabed/Automate-Cybersecurity-Tasks-with-Python)** ✅
-- **[Put It to Work: Prepare for Cybersecurity Jobs]()**
+- **[Put It to Work: Prepare for Cybersecurity Jobs](https://github.com/sondosaabed/Prepare-for-Cybersecurity-Jobs)**
 
 
 
