@@ -20,7 +20,7 @@ Each of these courses material and certificates of accomplishments are included 
 - **[Assets, Threats, and Vulnerabilities](https://github.com/sondosaabed/Assets-Threats-and-Vulnerabilities)** ✅
 - **[Sound the Alarm: Detection and Response](https://github.com/sondosaabed/Detection-and-Response)** ✅
 - **[Automate Cybersecurity Tasks with Python](https://github.com/sondosaabed/Automate-Cybersecurity-Tasks-with-Python)** ✅
-- **[Put It to Work: Prepare for Cybersecurity Jobs](https://github.com/sondosaabed/Prepare-for-Cybersecurity-Jobs)**
+- **[Put It to Work: Prepare for Cybersecurity Jobs](https://github.com/sondosaabed/Prepare-for-Cybersecurity-Jobs)** ✅
 
 
 
@@ -29,3 +29,9 @@ At the end of this Certificate I have build teh follwoing portfolio:
 
 Two of my strengths that I have a remarkable ability to learn new technologies and upskill, I also have strong written and verbal communication. As for my values, I strongly believe in protecting user’s privacy and data. My main mantra is “People before profit”. My interest in cybersecurity stems from research that I have done on the use of social media, where public data were misused in elections. I want to be able to protect others, and companies, and be aware of such issues. I believe that my values, strengths, and interest in cybersecurity have made me fit with the security goals of various organizations. 
 **[ My cybersecurity portfolio! : Digital Guardian Sondos](https://github.com/sondosaabed/Digital-Guardian-Sondos)**
+
+## Badges Earned! 
+![image](https://github.com/user-attachments/assets/6dd97fca-9a7e-4941-85f2-bd0f5a60364f)
+
+![image](https://github.com/user-attachments/assets/510c7f37-9c18-497c-ab5b-121712ce69d0)
+
