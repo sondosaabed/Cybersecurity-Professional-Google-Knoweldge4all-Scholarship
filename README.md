@@ -19,18 +19,18 @@ The Google Cybersecurity Certificate has eight courses that focus and build upon
 
 ## Courses Included:
 Each of these courses material and certificates of accomplishments are included in a seprate repository: 
-- **[Delivering Quality Work with Agility (IBM)](https://github.com/sondosaabed/Delivering-Quality-Work-with-Agility)** ✅
+- 🔄 **[Delivering Quality Work with Agility (IBM)](https://github.com/sondosaabed/Delivering-Quality-Work-with-Agility)** 🔄
 
 **Google**
 
-- **[Foundations of Cybersecurity](https://github.com/sondosaabed/Foundations-of-Cybersecurity)** 🛡️
-- **[Play It Safe: Manage Security Risks](https://github.com/sondosaabed/Manage-Security-Risks)** 📊
-- **[Connect and Protect: Networks and Network Security](https://github.com/sondosaabed/Networks-and-Network-Security)** 🌐
-- **[Tools of the Trade: Linux and SQL](https://github.com/sondosaabed/Tools-of-the-Trade-Linux-and-SQL)** 🔧
-- **[Assets, Threats, and Vulnerabilities](https://github.com/sondosaabed/Assets-Threats-and-Vulnerabilities)** ⚠️
-- **[Sound the Alarm: Detection and Response](https://github.com/sondosaabed/Detection-and-Response)** 🚨
-- **[Automate Cybersecurity Tasks with Python](https://github.com/sondosaabed/Automate-Cybersecurity-Tasks-with-Python)** 🤖
-- **[Put It to Work: Prepare for Cybersecurity Jobs](https://github.com/sondosaabed/Prepare-for-Cybersecurity-Jobs)** 💼
+- 🛡️ **[Foundations of Cybersecurity](https://github.com/sondosaabed/Foundations-of-Cybersecurity)** 🛡️
+- 📊 **[Play It Safe: Manage Security Risks](https://github.com/sondosaabed/Manage-Security-Risks)** 📊
+- 🌐 **[Connect and Protect: Networks and Network Security](https://github.com/sondosaabed/Networks-and-Network-Security)** 🌐
+- 🔧 **[Tools of the Trade: Linux and SQL](https://github.com/sondosaabed/Tools-of-the-Trade-Linux-and-SQL)** 🔧
+- ⚠️ **[Assets, Threats, and Vulnerabilities](https://github.com/sondosaabed/Assets-Threats-and-Vulnerabilities)** ⚠️
+- 🚨 **[Sound the Alarm: Detection and Response](https://github.com/sondosaabed/Detection-and-Response)** 🚨
+- 🤖 **[Automate Cybersecurity Tasks with Python](https://github.com/sondosaabed/Automate-Cybersecurity-Tasks-with-Python)** 🤖
+- 💼 **[Put It to Work: Prepare for Cybersecurity Jobs](https://github.com/sondosaabed/Prepare-for-Cybersecurity-Jobs)** 💼
 
 
 
