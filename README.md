@@ -6,6 +6,16 @@ The Google Cybersecurity Certificate has eight courses that focus and build upon
 
 ![wUDPfuuARCehSWG8hh8yGQ_391e3fca589640ff865568380c1165f1_S33G003-S33G010](https://github.com/user-attachments/assets/1109190a-94f8-44b2-9bef-610166d83082)
 
+## Skills I've Earned
+
+| 🛡️ Authentication | 🔒 Cybersecurity Assessment | 🧩 Information Assurance |
+|-------------------|----------------------------|-------------------------|
+| 🖥️ Information Security | 💻 Information Systems | 🚨 Intrusion Detection and IDS tools |
+| 🐧 Linux           | 📡 Network Analyzer tools  | 🌐 Network Security |
+| 🧰 NIST Cybersecurity Framework | 🐍 Python Programming | ⚖️ Risk Assessment |
+| 🔍 Risk Management Framework | 🛠️ SIEM tools | 🗃️ SQL |
+| 🕵️‍♂️ Threat Analysis | 🛠️ Vulnerability Assessment | 📞 Communication |
+| 📊 Storytelling | 🌐 Networking | 💫 Self Branding |
 
 ## Courses Included:
 Each of these courses material and certificates of accomplishments are included in a seprate repository: 
