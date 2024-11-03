@@ -41,7 +41,12 @@ Two of my strengths that I have a remarkable ability to learn new technologies a
 **[ My cybersecurity portfolio! : Digital Guardian Sondos](https://github.com/sondosaabed/Digital-Guardian-Sondos)**
 
 ## Badges Earned! 
+
 ![image](https://github.com/user-attachments/assets/6dd97fca-9a7e-4941-85f2-bd0f5a60364f)
 
 ![image](https://github.com/user-attachments/assets/510c7f37-9c18-497c-ab5b-121712ce69d0)
 
+
+
+## Certificate of Completion
+![71E575AB-1371-4AE9-A9BD-50DA508C91A1](https://github.com/user-attachments/assets/c0b331ba-1182-4c37-908a-4b2bf540c437)
